@@ -1,0 +1,96 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "This is a great stream.",
+      "id": 1
+    },
+    {
+      "title": "my mambo",
+      "description": "greate mambo",
+      "id": 2
+    },
+    {
+      "title": "dsa",
+      "description": "das",
+      "id": 3
+    },
+    {
+      "title": "ASD",
+      "description": "DSA",
+      "id": 4
+    },
+    {
+      "title": "ASD",
+      "description": "SAD",
+      "id": 5
+    },
+    {
+      "title": "DAS",
+      "description": "DAS",
+      "id": 6
+    },
+    {
+      "title": "DSA",
+      "description": "DSA",
+      "id": 7
+    },
+    {
+      "title": "dsa",
+      "description": "dsa",
+      "id": 8
+    },
+    {
+      "title": "ds",
+      "description": "dsa",
+      "id": 9
+    },
+    {
+      "title": "654654",
+      "description": "654654645",
+      "id": 10
+    },
+    {
+      "title": "this is a new stream",
+      "description": "to test userid in store.",
+      "userId": "114271362815295705893",
+      "id": 11
+    },
+    {
+      "title": "Wonderful stream",
+      "description": "on a shine day",
+      "userId": "114271362815295705893",
+      "id": 12
+    },
+    {
+      "title": "programmatic navigation",
+      "description": "Testing",
+      "userId": "114271362815295705893",
+      "id": 13
+    },
+    {
+      "title": "programmatic navigation",
+      "description": "Testing",
+      "userId": "114271362815295705893",
+      "id": 14
+    },
+    {
+      "title": "programmatic navigation",
+      "description": "testing once again",
+      "userId": "114271362815295705893",
+      "id": 15
+    },
+    {
+      "title": "titulo",
+      "description": "descrição",
+      "userId": "114271362815295705893",
+      "id": 16
+    },
+    {
+      "title": "um",
+      "description": "dois dos",
+      "userId": "114271362815295705893",
+      "id": 17
+    }
+  ]
+}
