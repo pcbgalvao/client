@@ -13,8 +13,7 @@ class StreamsEdit extends React.Component {
     if (!this.props.stream) {
       return <div>Loading...</div>
     } 
-    return <div>{this.props.stream.title}</div>;
-    
+    return <div>{this.props.stream.title}</div>    
   }
 }
 
