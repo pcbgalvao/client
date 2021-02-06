@@ -15,12 +15,7 @@ class StreamsList extends React.Component {
           <Link to={`/streams/edit/${stream.id}`} className="ui button primary">
             Edit
           </Link>
-          <Link
-            to={`/streams/delete/${stream.id}`}
-            className="ui button negative"
-          >
-            Delete
-          </Link>
+          <button className="ui button negative">Delete</button>
         </div>
       );
     }
@@ -44,7 +39,7 @@ class StreamsList extends React.Component {
   renderCreate() {
     if (this.props.isSignedIn) {
       return (
-        <div style={{ textAlign: "right" }}>
+        <div style={{ textAlign: 'right' }}>
           <Link to="/streams/new" className="ui button primary">
             Create Stream
           </Link>
@@ -67,8 +62,11 @@ const mapStateToProps = (state) => {
   return {
     streams: Object.values(state.streams),
     currentUserId: state.auth.userId,
-    isSignedIn: state.auth.isSignedIn,
+    isSignedIn: state.auth.isSignedIn
   };
 };
 
-export default connect(mapStateToProps, { fetchStreams })(StreamsList);
+export default connect(
+  mapStateToProps,
+  { fetchStreams }
+)(StreamsList);

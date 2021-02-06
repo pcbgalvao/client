@@ -1,8 +1,6 @@
 import _ from 'lodash';
 import * as ACTION from '../actions/types';
 
-
-
 const streamReducer = (state = {}, action) => {
   switch (action.type) {
     case ACTION.FETCH_STREAMS:
@@ -19,7 +17,5 @@ const streamReducer = (state = {}, action) => {
       return state;
   };
 };
-
-
 
 export default streamReducer;

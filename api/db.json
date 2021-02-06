@@ -52,13 +52,13 @@
     },
     {
       "title": "this is a new stream",
-      "description": "to test userid in store.",
+      "description": "to test userid in store, once again...",
       "userId": "114271362815295705893",
       "id": 11
     },
     {
       "title": "Wonderful stream",
-      "description": "on a shine day",
+      "description": "on a shine day... its raining",
       "userId": "114271362815295705893",
       "id": 12
     },
@@ -88,9 +88,13 @@
     },
     {
       "title": "um",
-      "description": "dois dos",
-      "userId": "114271362815295705893",
+      "description": "dois dos tres",
       "id": 17
+    },
+    {
+      "title": "vamos lá",
+      "description": "... para aonde? cima?",
+      "id": 18
     }
   ]
 }
